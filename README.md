@@ -1,6 +1,6 @@
 # Crypto-TeleBot
 
-A new Flutter project.
+This app will update your bitcoin price every 1 minute via Telegram Bot.
 
 ## Getting Started
 
