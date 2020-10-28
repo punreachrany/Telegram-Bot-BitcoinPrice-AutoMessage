@@ -1,4 +1,4 @@
-# telebot
+# Crypto-TeleBot
 
 A new Flutter project.
 
